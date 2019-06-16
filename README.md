@@ -1,6 +1,6 @@
-## Weather app - React
+# Weather app - React
 
-# Build app
+## Build app
 
 Execute command:
 
@@ -8,7 +8,7 @@ Execute command:
 npm run build
 ``````
 
-# Start app for development:
+## Start app for development:
 
 ``````
 npm run start
